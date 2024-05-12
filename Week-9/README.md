@@ -12,7 +12,7 @@ type, credentials, and other necessary parameters.
 - Test the deployment to ensure that the application can connect to the MongoDB database and
 perform basic CRUD (Create, Read, Update, Delete) operations.
 
-## Files
+## OUTLINE FILES
 
 ### createConfigMap.yaml
 
