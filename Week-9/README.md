@@ -1,5 +1,4 @@
-TASK:
-
+## TASK
 - Install MongoDB into the Kubernetes cluster, either as a standalone instance or a replica set,
 depending on your requirements.
 - Create a MongoDB user with appropriate permissions for your application.
@@ -13,4 +12,6 @@ type, credentials, and other necessary parameters.
 - Test the deployment to ensure that the application can connect to the MongoDB database and
 perform basic CRUD (Create, Read, Update, Delete) operations.
 
-TEST:
+## TEST ON TERMINAL:
+![test](https://github.com/phanvuminhtrung/sit323-737-2024-t1--prac9p/assets/63788637/e80b0b28-332e-459c-80ea-3d2b8098f595)
+
